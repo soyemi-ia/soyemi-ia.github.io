@@ -1,0 +1,8 @@
+<script>
+  // Monta el correo de contacto al abrir la página. En el código solo está por piezas, para que no lo lean los robots que buscan direcciones.
+  document.querySelectorAll('a.correo').forEach(function (a) {
+    var c = a.getAttribute('data-u') + String.fromCharCode(64) + a.getAttribute('data-d');
+    a.href = 'mai' + 'lto:' + c;
+    a.textContent = c;
+  });
+</script>
