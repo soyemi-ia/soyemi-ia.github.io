@@ -12,4 +12,6 @@ Herramienta interna del canal **Soy Emi.ia** (@soyemi.ia en Instagram y TikTok, 
 
 [Política de privacidad](privacidad) · [Condiciones de uso](condiciones)
 
-Contacto: soyemilia.ia@gmail.com
+Contacto: <a class="correo" data-u="soyemilia.ia" data-d="gmail.com">soyemilia.ia (arroba) gmail.com</a>
+
+{% include correo.html %}
