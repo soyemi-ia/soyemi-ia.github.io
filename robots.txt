@@ -1,0 +1,4 @@
+# soyemi-ia.github.io: páginas legales del canal, solo para quien llega desde un enlace (formularios, perfil, apps).
+# No queremos que aparezcan en los buscadores ni que las copien los rastreadores.
+User-agent: *
+Disallow: /
