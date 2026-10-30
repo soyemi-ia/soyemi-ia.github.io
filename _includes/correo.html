@@ -1,15 +1,15 @@
 <script>
-  // Monta el correo de contacto y el nombre del responsable al abrir la página. En el código solo están por piezas,
-  // para que no los lean los robots que buscan direcciones y nombres. Sin JavaScript se lee «(arroba)» y las iniciales.
+  // Monta el correo de contacto y el nombre del responsable al abrir la página. En el código solo están por piezas
+  // (el nombre, codificado), para que no los lean los robots que buscan direcciones y nombres. Sin JavaScript se lee
+  // «(arroba)» y las iniciales.
   document.querySelectorAll('a.correo').forEach(function (a) {
     var c = a.getAttribute('data-u') + String.fromCharCode(64) + a.getAttribute('data-d');
     a.href = 'mai' + 'lto:' + c;
     a.textContent = c;
   });
   document.querySelectorAll('span.nombre').forEach(function (n) {
-    var t = document.createElement('textarea');
-    t.innerHTML = n.getAttribute('data-a') + ' ' + n.getAttribute('data-b');
-    n.textContent = t.value;
+    var d = function (x) { return decodeURIComponent(escape(atob(x))); };
+    n.textContent = d(n.getAttribute('data-a')) + ' ' + d(n.getAttribute('data-b'));
   });
   // Pide a los buscadores que no indexen ni guarden copia de la página (además de robots.txt).
   var m = document.createElement('meta');
