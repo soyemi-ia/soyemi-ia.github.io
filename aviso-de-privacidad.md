@@ -4,13 +4,13 @@ title: Aviso de privacidad · Soy Emi.ia
 
 # Aviso de privacidad de Soy Emi.ia
 
-Última actualización: 23 de octubre de 2026.
+Última actualización: 30 de octubre de 2026.
 
 Soy Emi.ia (@soyemi.ia) usa tus datos solo para lo que tú pides: hacer tu muestra, apuntarte a la lista del Club Emi.ia y, si lo marcas, enviarte novedades.
 
 ## Quién trata tus datos y para qué
 
-**Responsable:** Carlos J. S. G., que firma como Soy Emi.ia. Contacto: <a class="correo" data-u="soyemilia.ia" data-d="gmail.com">soyemilia.ia (arroba) gmail.com</a>.
+**Responsable:** <span class="nombre" data-a="Carlos J. S." data-b="Gal&aacute;n">Carlos J. S. G.</span>, que firma como Soy Emi.ia. Contacto: <a class="correo" data-u="soyemilia.ia" data-d="gmail.com">soyemilia.ia (arroba) gmail.com</a>.
 
 1. **Tu muestra:** si la pides, hacemos el anuncio con la foto que nos mandas y te escribimos sobre ella.
 2. **Enseñar tu muestra:** solo si nos das permiso, la publicamos en @soyemi.ia con tu marca, después de enseñártela.
