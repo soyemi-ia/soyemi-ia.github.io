@@ -10,7 +10,7 @@ Soy Emi.ia (@soyemi.ia) usa tus datos solo para lo que tú pides: hacer tu muest
 
 ## Quién trata tus datos y para qué
 
-**Responsable:** <span class="nombre" data-a="Q2FybG9zIEouIFMu" data-b="R2Fsw6Fu">Carlos J. S. G.</span>, que firma como Soy Emi.ia. Contacto: <a class="correo" data-u="soyemilia.ia" data-d="gmail.com">soyemilia.ia (arroba) gmail.com</a>.
+**Responsable:** <span class="nombre" data-a="Q2FybG9zIEouIFMu" data-b="R2Fsw6Fu">Carlos J. S. G.</span>, que firma como Soy Emi.ia. Contacto: [el formulario «Escríbenos»](https://tally.so/r/o9E6BV?origen=aviso) (sin correo a la vista: así ningún robot lo recoge).
 
 1. **Tu muestra:** si la pides, hacemos el anuncio con la foto que nos mandas y te escribimos sobre ella.
 2. **Enseñar tu muestra:** solo si nos das permiso, la publicamos en @soyemi.ia con tu marca, después de enseñártela.
@@ -38,7 +38,7 @@ Si nos escribes por Instagram (por ejemplo, MUESTRA o CLUB), Meta trata esos men
 
 ## Tus derechos y la foto de tu producto
 
-- **Tus derechos:** acceso, rectificación, supresión, oposición, limitación y portabilidad, escribiendo a <a class="correo" data-u="soyemilia.ia" data-d="gmail.com">soyemilia.ia (arroba) gmail.com</a>. Si crees que no los respetamos, puedes reclamar ante la Agencia Española de Protección de Datos ([aepd.es](https://www.aepd.es)).
+- **Tus derechos:** acceso, rectificación, supresión, oposición, limitación y portabilidad, desde [el formulario «Escríbenos»](https://tally.so/r/o9E6BV?origen=aviso); te contestamos al correo que nos dejes, en un mes como máximo. Si crees que no los respetamos, puedes reclamar ante la Agencia Española de Protección de Datos ([aepd.es](https://www.aepd.es)).
 - **La foto de tu producto:** solo para tu muestra y, si nos das permiso, para enseñarla. Tienes que ser su autor o tener derecho a usarla.
 
 {% include correo.html %}
